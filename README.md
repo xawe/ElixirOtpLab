@@ -4,60 +4,15 @@
 
 Projeto Laboratório Elixir.
 
-#weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspayseys
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
-weaknesspays
+# Documentação
+Para gerar a documentação, executar os comandos abaixo
+
+$ mix deps.get # gets ExDoc + Earmark.
+
+$ mix docs # makes the documentation.
+
+Docs successfully generated.
+View them at "doc/index.html".
 
 
 ## Installation
